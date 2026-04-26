@@ -18,4 +18,4 @@ py -3.13 run_client.py
 update the .env file's SERVER_IP with the networks IP address 
 for example if your IPv4 address is 192.168.1.25
 update the .env file to: SERVER_IP=192.168.1.25
-No need to change the SERVER_PORT unless when you start the server you are given "Only one usage of each socket address" then juste change to any available port number on your device
+No need to change the SERVER_PORT unless when you start the server and you are given "Only one usage of each socket address" then juste change to any available port number on your device
